@@ -1,0 +1,54 @@
+*{
+  margin:0;
+  padding: 0;
+  background-image:url("https://i.etsystatic.com/5295659/r/il/915be9/1871492968/il_fullxfull.1871492968_elaq.jpg");
+  background-color:black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.header{
+   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: rgb(0, 175, 73);
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+body{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vmin;
+    background-color:black;
+    border-radius: 10px;
+  
+  
+}
+
+.time{
+font-size: 100px;
+color:white;
+
+
+}
+.btn{
+  height: 50px;
+  width:25% ;
+ margin:17px;
+ border-radius: 10px;
+ border-color: rgb(0, 175, 73);
+
+ color: aliceblue;
+
+}
+
+
+.button{
+  margin-top: 50px;
+}
